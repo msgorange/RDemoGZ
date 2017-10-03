@@ -7,8 +7,11 @@ mean(x)
 plot(x,y)
 #add change
 #add change number 2
-<<<<<<< HEAD
+
 #blahblah change4 will this overwrite?
-=======
+
 #test_testGZchange_again3
->>>>>>> 04109394d5df40b03fe0f12cc032db2bfc480940
+
+#liyuanli's change on branch2
+
+
