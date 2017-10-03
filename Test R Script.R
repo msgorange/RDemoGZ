@@ -6,3 +6,4 @@ mean(y)
 mean(x)
 plot(x,y)
 #add change
+#add change number 2
